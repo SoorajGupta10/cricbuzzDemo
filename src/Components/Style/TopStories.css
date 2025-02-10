@@ -1,0 +1,25 @@
+.TopStories{
+    background-color: black;
+    color: white;
+    border-radius: 10px;
+    gap: 5px;
+    
+    
+}
+img{
+    width: 170px;
+    border-radius: 10px;
+    padding: 5px;
+    
+}
+
+.slick-slider > div{
+    margin: 0 10px;
+}
+
+button{
+    margin-top: 50px;
+   position: relative;
+   left: 92vw;
+   
+}

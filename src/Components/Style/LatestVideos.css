@@ -1,0 +1,21 @@
+.videos{
+    background-color: black;
+    color: white;
+    border-radius: 10px;
+    gap: 5px;
+    width: 300px;
+    height: 250px;
+    background-image: url(https://images.indianexpress.com/2023/09/Indian-cricket-team-3.jpg?w=414);
+    background-size: cover;
+}
+
+
+.slick-slider > div{
+    margin: 0 10px;
+}
+
+button{
+    margin-top: 50px;
+   position: relative;
+   left: 85vw; 
+}

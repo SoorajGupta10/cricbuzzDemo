@@ -1,0 +1,25 @@
+
+.scoreCard{
+    border: 2px solid black;
+    width: 300px;
+    height: 260px;
+    border-radius: 10px;
+    background-color: black;
+    color: white;
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+    
+}
+
+
+button{
+    
+    background-color: blue;
+    width: 80px;
+    border-radius: 20px;  
+}
+.slick-slide > scoreCard {
+    margin: 0 10px;
+}
+

@@ -1,0 +1,24 @@
+.flag{
+    height: 3rem;
+   width: 5rem;
+   border-radius: 1rem;
+   box-shadow:  5px 10px 16px 0 rgba(0, 0, 0, 0.2);
+   margin: 11px;
+}
+
+.Arrow{
+    height: 2rem;
+    width: 2rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.Topteam{
+    max-width: 100%;
+    background: white;
+    margin: 0 auto;
+    padding: 1rem;
+    margin-top: 1.5rem;
+    margin-bottom: 1.5rem;
+}

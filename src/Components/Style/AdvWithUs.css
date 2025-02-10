@@ -1,0 +1,21 @@
+.AdvWith{
+    max-width: 100vw;
+     background: white;
+     margin: 0 auto;
+     padding: 1rem;
+     margin-top: 1.5rem;
+     margin-bottom: 1.5rem;
+    background-image: url('/public/pngtree-background-yellow-abstract-png-image_6618628.png');
+    background-repeat: no-repeat;
+    background-size: 60% 100%;
+  }
+
+.socialImage{
+  background-image: url("https://cdn.dribbble.com/users/2816838/screenshots/8751099/media/e72af5acfdb44c234079dcfea3f12ced.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  
+  height: 250px;
+  border-radius: 20px;
+
+}
